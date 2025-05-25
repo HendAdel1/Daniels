@@ -229,6 +229,10 @@ color: var(--sub-color);
     margin-bottom: 30px;
     border-radius: 5px;
 }
+.services .services-content:hover .icon{
+    background-color: #000;
+    color: #eee;
+}
 .services .icon{
     height: 70px;
     width: 70px;
