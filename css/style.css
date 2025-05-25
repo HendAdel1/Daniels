@@ -380,6 +380,9 @@ color: var(--sub-color);
 .counters i{
     font-size: 30px;
 }
+.counters h3{
+    font-weight: 900;
+}
 .counters p {
     font-weight: 600;
     font-size: 15px;
