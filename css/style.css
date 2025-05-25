@@ -477,6 +477,11 @@ color: var(--sub-color);
     border: 0;
     background-color: var(--light-gray-bg-icon);
 }
+.contact-us .form-control:focus {
+    border-color: none;
+    outline: 0;
+    box-shadow: none;
+}
 .contact-us input{
     color: white;
 }
