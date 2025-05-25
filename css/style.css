@@ -464,7 +464,6 @@ color: var(--sub-color);
 }
 .contact-us input:hover {
     color: var(--dark-color);
-    background-color: white;
     border-color: var(--dark-color);
 }
 .contact-us .btn{
