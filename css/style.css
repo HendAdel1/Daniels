@@ -331,6 +331,13 @@ color: var(--sub-color);
     margin: 0 2px;
     background-color: var(--main-color);
 }
+.portfolio .icon:hover{
+    background-color: white;
+    border: 1px solid var(--main-color);
+}
+.portfolio .icon:hover a{
+    color: var(--main-color);
+}
 .portfolio .icon a{
     color: white;
 }
